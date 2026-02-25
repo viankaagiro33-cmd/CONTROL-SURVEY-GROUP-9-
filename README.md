@@ -1,8 +1,8 @@
 # CONTROL-SURVEY PROJECT-GROUP-9-
 The python code was undertaken by group 9 members. The code was made simple and easy to use for everyone
-2. Core Purpose
+#CORE PROCESSES
 The project addresses a fundamental challenge in surveying: determining the most probable position of an unknown point using redundant observations from multiple known stations. When a surveyor observes bearings to an unknown point from several known control stations, these observations rarely intersect perfectly due to measurement errors. This suite computes the optimal position using rigorous least squares adjustment.
-3. The Surveying Problem
+#HE SURVEYING PROCESS
 Real-World Scenario
 A surveyor needs to establish the coordinates of a new control point P. From three existing control stations (C, D, E) with known coordinates, bearings to P are measured:
  
